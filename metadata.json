@@ -1,0 +1,5 @@
+{
+  "name": "Snake 2026",
+  "description": "A mobile-first, responsive, and modern (2026) version of the classic Snake game, built with React and Tailwind CSS. Features include swipe controls, power-ups (speed, invincibility, 2x points), a futuristic dark neon design, and high score persistence.",
+  "requestFramePermissions": []
+}
